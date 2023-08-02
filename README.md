@@ -19,8 +19,8 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-Hitshigo
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Hitshigo&theme=dark&background=000000)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=your-hitshigo
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-hitshigo&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Hitshigo/Hitshigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
